@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Alvaro :broccoli:
+
+I am a PhD student at Princeton and I develop tech solutions at [ConsiliumBots](https://www.consiliumbots.com/).
+
+I program mostly in **Python**, **R** and **Julia**, but I'm always learning new languages or frameworks.
 
 <!--
 **acarril/acarril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
